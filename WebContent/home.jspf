@@ -1,0 +1,38 @@
+<div class="video">
+	<object width="425" height="350">
+		<param name="movie" value="http://www.youtube.com/v/DaS3Wn3WHEw" />
+		<embed src="http://www.youtube.com/v/DaS3Wn3WHEw"
+			type="application/x-shockwave-flash" width="425" height="350" />
+	</object>
+</div>
+<div class="servico1">
+	<img class="servico2" src="./css/imagens/VirtConsolidacaoServidores.jpg">
+</div>
+<div class="servico2">
+	<img class="servico2" src="./css/imagens/ServicosCompartilhadosGerenciados.jpg">
+</div>
+<div Class="desc">
+<h1>Quem Somos</h1>
+<p>A Stranger acessoria em tecnologia foi constituída em 2009, após anos
+	de graduação e qualificação dos fundadores nas áreas administrativas e
+	tecnológicas. Dentre as motivações iniciais destacaram-se as
+	oportunidades e demandas do mercado regional, a tendência de
+	crescimento global do setor de Tecnologia da Informação e Comunicação
+	(TIC) e o desejo de atuar positivamente como agentes transformadores da
+	sociedade. A Core busca proporcionar aos seus clientes uma posição
+	privilegiada no mercado, através de tecnologias inovadoras e serviços
+	diferenciados que promovam a redução de custos e desenvolvimento de
+	seus empreendimentos.</p>
+<p>Ao longo desses anos a Core estabeleceu-se no mercado e
+	consolidou sua marca devido à seus diferenciais como inovação,
+	qualidade, compromisso com o cliente e acima de tudo porque é
+	apaixonada pelo que faz.</p>
+
+
+<h2>Missão</h2>
+<p>"Criar e aplicar soluções tecnológicas visando diferenciar
+	competitivamente nossos clientes e parceiros."</p>
+<h2>Contatos</h2>
+<p>Rua Pero Vaz de Caminha n. 112, Centro, Porto Seguro - BA - CEP:
+	45810-000 Tel: +55 (73) 3012 2005</p>
+</div>

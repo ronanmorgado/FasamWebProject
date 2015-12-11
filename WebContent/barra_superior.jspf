@@ -1,0 +1,18 @@
+
+<div class="container">
+	<div class="logo">
+		<img src="./css/imagens/logo.png"> <a class="NomeEmpresa">Stranger</a>
+		<a class="DescEmpresa">Acessoria em Tecnologia</a>
+	</div>
+	<nav class="menu">
+		<ul>
+			<li><a href="./index.jsp">Inicio</a></li>
+			<li><a href="./login.jsp">Login</a></li>
+			<li><a href="./Cadastro.jsp">Cadastro</a></li>
+			<li><a href="">Serviços</a></li>
+			<li><a href="">Contato</a></li>
+		</ul>
+	</nav>
+	<a class="nomeUsuario" href="./login.jsp">Fazer login</a> <img class="usrImg"
+		src="./css/imagens/anyone.png">
+</div>

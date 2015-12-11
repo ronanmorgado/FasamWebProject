@@ -1,0 +1,88 @@
+@CHARSET "ISO-8859-1";
+
+.container {
+	width: 95%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.container p {
+	margin-bottom: 40px;
+}
+
+header nav {
+	background-color: #000000;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+header nav ul {
+	list-style: none;
+	overflow: hidden;
+}
+
+header nav ul li {
+	float: left;
+}
+
+header nav ul li a {
+	display: block;
+	padding: 20px;
+	color: white;
+}
+
+header nav ul li a:HOVER {
+	background: #535353;
+	border-radius: 10px;
+}
+
+.menu-fixed {
+	position: fixed;
+	z-index: 1000px;
+	top: 0;
+	width: 100%;
+	left: 0px;
+	box-shadow: 0px 4px 3px rgba(0, 0, 0, .5);
+}
+
+.logo {
+	padding: 50px;
+}
+
+.NomeEmpresa {
+	float: left;
+	margin-top: -10px;
+	font-family: fantasy;
+	font-size: 30px;
+	font-style: oblique;
+	font-weight: 100;
+}
+
+.DescEmpresa {
+	float: left;
+	margin-top: 20px;
+	margin-left: -110px;
+	font-size: 18px;
+	font-style: oblique;
+	font-weight: 3;
+}
+
+.logo img {
+	width: 90px;
+	height: 90px;
+	float: left;
+	margin-top: -30px;
+}
+
+.nomeUsuario {
+	
+	margin-top: -190px;
+	float: right;
+}
+.usrImg  {
+	height: 40px;
+	float: right;
+		float: right;
+	margin-top: -200px;
+	margin-right: 100px;
+	}

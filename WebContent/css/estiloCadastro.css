@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image: url(imagens/background.jpg) ;
+	background-repeat: no-repeat;
+	background-attachment:  fixed;
+	background-size: 100%  100%;
+	font-family: arial;
+	font-size: 17px;
+	font-weight: bold;
+
+}
+
+fieldset {
+	background-color: #EEE;
+	border: 1px solid #FFF;
+	padding: 10px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #999;
+	width: 580px;
+	margin: auto;
+	    width: 500px;
+}
+
+Label {
+	display: block;
+	padding: 5px;
+}
+
+Label span {
+	display: block;
+	padding: 5px;
+	color: #999;
+	
+}
+
+input {
+	border: 1px solid #DDD;
+	border-radius: 5px; font-size : 20px;
+	padding: 5px;
+	font-size: 20px;
+	width: 600px;
+}
+
+label button {
+	background-color: #77AACC;
+	border: 1px solid #FFF;
+	color: #FFF;
+	border-radius: 5px;
+	padding: 5px 15px;
+	box-shadow: 0px 0px 10px #DDD;
+}
+
+.login {
+	padding: 250px;
+	}
